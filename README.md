@@ -13,25 +13,12 @@
 4) Finir par ```rails db:seed```
 
 ## Doc & Gems
+
 ActiveRecord pour gérer la database sqlite3 database, et la gem "Faker" pour donner un sens à notre database sur le fichier seed.
 
 ## Pour avoir accès à base de données 
 
 Tu peux utiliser DB Browser for sqlite3
-
-## Process
-Utiliser les Rails pour produire des classes et des migrations pour Users, Articles, Categories, Likes et Comments. Exemple pour User :
-
-```ruby
-$ rails generate model User
-```
-Puis on fignole les fichiers migration et les classes. 
-
-## Architecture du Doss
-
-
-
-
 
 
 ![](https://github.com/wilrib/The-Hacking-News/blob/master/img/25484553.png)
