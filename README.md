@@ -2,8 +2,8 @@
 
 ## Contributeurs
 
-- Dimitri KIAVUE | @wilrib  non-binaire
-- Pierre Tâm-Anh LE KHAC | @Gino
+- Dimitri KIAVUE | @Dimitri - BoyzIICode
+- Pierre Tâm-Anh LE KHAC | @Pierre Tâm-Anh - BoyzIICode
 
 ## Lancer le projet 
 
