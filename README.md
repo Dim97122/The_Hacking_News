@@ -16,7 +16,7 @@
 
 ActiveRecord pour gérer la database sqlite3 database, et la gem "Faker" pour donner un sens à notre database sur le fichier seed.
 
-## Pour avoir accès à base de données 
+## Pour avoir accès à la base de données 
 
 Tu peux utiliser DB Browser for sqlite3
 
