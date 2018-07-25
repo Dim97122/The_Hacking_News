@@ -1,24 +1,17 @@
-# README
+# > DBB of The-Hacking-News
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Contributors
 
-Things you may want to cover:
+- William RIBEIRO | @wilrib  non-binaire
+- Gino HU | @Gino
 
-* Ruby version
+## How it works
 
-* System dependencies
+1) Cloner le repo ```git clone https://github.com/wilrib/The-Hacking-News.git```
+2) Se mettre dans le dossier cloné puis ```bundle install``` 
+3) Créer la base de donnée avec la commande ```rails db:migrate```
+4) Finir par ```rails db:seed```
 
-* Configuration
+*Voilà, vous avez une belle base de donnée avec des données random*
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![](https://github.com/wilrib/The-Hacking-News/blob/master/img/25484553.png)
