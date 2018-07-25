@@ -7,7 +7,7 @@
 
 ## Lancer le projet 
 
-1) Cloner le repo ```git clone https://github.com/wilrib/The-Hacking-News.git```
+1) Cloner le repo ```git clone https://github.com/Dim97122/The_Hacking_News.git```
 2) Se mettre dans le dossier cloné puis ```bundle install``` 
 3) Créer la base de donnée avec la commande ```rails db:migrate```
 4) Finir par ```rails db:seed```
